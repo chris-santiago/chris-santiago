@@ -1,4 +1,4 @@
-LinkedIn: https://www.linkedin.com/in/chris-santiago-msf/
+LinkedIn: https://www.linkedin.com/in/chris-santiago-ds/
 
 <!--
 **chris-santiago/chris-santiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
