@@ -78,6 +78,21 @@
 </tr>
 </table>
 
+<table>
+<tr><th>Manning liveProjects</th></tr>
+<tr>
+<td>
+
+|Title|Tech|
+|---|---|
+|[Causal Inference](https://github.com/chris-santiago/manning-causal-inference)| ![Pandas](https://img.shields.io/badge/Pandas-grey?style=flat&logo=pandas) ![Statsmodels](https://img.shields.io/badge/Statsmodels-grey?style=flat)|
+|[Anomaly Detection](https://github.com/chris-santiago/liveProject-anomalyDetection)| ![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-grey?style=flat&logo=scikitlearn) ![Docker](https://img.shields.io/badge/Docker-grey?style=flat&logo=docker) ![FastAPI](https://img.shields.io/badge/FastAPI-grey?style=flat&logo=fastapi) ![Prometheus](https://img.shields.io/badge/Prometheus-grey?style=flat&logo=prometheus) ![Grafana](https://img.shields.io/badge/Grafana-grey?style=flat&logo=grafana)|
+|[DeepRecommender](https://github.com/chris-santiago/liveProject-deepRecommender)| ![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-grey?style=flat&logo=scikitlearn) ![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TensorFlow-grey?style=flat&logo=tensorflow) ![Gensim](https://img.shields.io/badge/Gensim-grey?style=flat)|
+
+</td>
+</tr>
+</table>
+
 
 <!--
 **chris-santiago/chris-santiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
