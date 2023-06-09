@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
 
 <table>
-<tr><th>Deep Learning</th><th>Scikit-Learn Extensions</th></tr>
+<tr><th>Deep Learning</th></tr>
 <tr>
 <td>
 
@@ -23,6 +23,27 @@
 |[Deep Learning from Scratch](https://github.com/chris-santiago/dlfs)|![Numpy](https://img.shields.io/badge/Numpy-grey?style=flat&logo=numpy)|
 
 </td>
+</tr>
+</table>
+
+<table>
+<tr><th>Natural Language Processing</th></tr>
+<tr>
+<td>
+
+|Title|Tech|
+|---|---|
+|[Deduping](https://github.com/chris-santiago/stringcluster)| ![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-grey?style=flat&logo=scikitlearn) ![Pandas](https://img.shields.io/badge/Pandas-grey?style=flat&logo=pandas)|
+|[NLP with Transformers](https://github.com/chris-santiago/nlpwt)| ![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat&logo=pytorch) ![transformers](https://img.shields.io/badge/transformers-grey?style=flat) ![BERT](https://img.shields.io/badge/BERT-grey?style=flat)|
+|[Topic Modeling](https://github.com/chris-santiago/webtopics)| ![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat&logo=pytorch) ![transformers](https://img.shields.io/badge/transformers-grey?style=flat) ![Gensim](https://img.shields.io/badge/Gensim-grey?style=flat) ![UMAP](https://img.shields.io/badge/UMAP-grey?style=flat) ![BERT](https://img.shields.io/badge/BERT-grey?style=flat)|
+|[Bookmarks Clustering](https://github.com/chris-santiago/bookmarks_clustering)| ![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-grey?style=flat&logo=scikitlearn) ![Gensim](https://img.shields.io/badge/Gensim-grey?style=flat) ![spaCy](https://img.shields.io/badge/spaCy-grey?style=flat&logo=spacy) ![AIOHTTP](https://img.shields.io/badge/AIOHTTP-grey?style=flat&logo=aiohttp) ![NLTK](https://img.shields.io/badge/NLTK-grey?style=flat)|
+</td>
+</tr>
+</table>
+
+<table>
+<tr><th>Scikit-Learn Extensions</th></tr>
+<tr>
 <td>
 
 |Title|Tech|
@@ -35,17 +56,8 @@
 </table>
 
 <table>
-<tr><th>Natural Language Processing</th><th>Other PyPi Packages</th></tr>
+<tr><th>Other PyPi Packages</th></tr>
 <tr>
-<td>
-
-|Title|Tech|
-|---|---|
-|[Deduping](https://github.com/chris-santiago/stringcluster)| ![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-grey?style=flat&logo=scikitlearn) ![Pandas](https://img.shields.io/badge/Pandas-grey?style=flat&logo=pandas)|
-|[NLP with Transformers](https://github.com/chris-santiago/nlpwt)| ![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat&logo=pytorch) ![transformers](https://img.shields.io/badge/transformers-grey?style=flat) ![BERT](https://img.shields.io/badge/BERT-grey?style=flat)|
-|[Topic Modeling](https://github.com/chris-santiago/webtopics)| ![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat&logo=pytorch) ![transformers](https://img.shields.io/badge/transformers-grey?style=flat) ![Gensim](https://img.shields.io/badge/Gensim-grey?style=flat) ![UMAP](https://img.shields.io/badge/UMAP-grey?style=flat) ![BERT](https://img.shields.io/badge/BERT-grey?style=flat)|
-|[Bookmarks Clustering](https://github.com/chris-santiago/bookmarks_clustering)| ![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-grey?style=flat&logo=scikitlearn) ![Gensim](https://img.shields.io/badge/Gensim-grey?style=flat) ![spaCy](https://img.shields.io/badge/spaCy-grey?style=flat&logo=spacy) ![AIOHTTP](https://img.shields.io/badge/AIOHTTP-grey?style=flat&logo=aiohttp) ![NLTK](https://img.shields.io/badge/NLTK-grey?style=flat)|
-</td>
 <td>
 
 |Title|Tech|
@@ -58,15 +70,8 @@
 </table>
 
 <table>
-<tr><th>Finance Stuff</th><th>Misc. Georgia Tech</th></tr>
+<tr><th>From Scratch</th></tr>
 <tr>
-<td>
-
-|Title|Tech|
-|---|---|
-|[Scraping SEC Filings](https://github.com/chris-santiago/top-holdings)| ![Pandas](https://img.shields.io/badge/Pandas-grey?style=flat&logo=pandas) ![AIOHTTP](https://img.shields.io/badge/AIOHTTP-grey?style=flat&logo=aiohttp) ![BS4](https://img.shields.io/badge/BS4-grey?style=flat)|
-|[Mutual Fund Anomaly Detection](https://github.com/chris-santiago/aafm)| ![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-grey?style=flat&logo=scikitlearn) ![TensorFlow](https://img.shields.io/badge/TensorFlow-grey?style=flat&logo=tensorflow) ![Bokeh](https://img.shields.io/badge/Bokeh-grey?style=flat) ![t-SNE](https://img.shields.io/badge/t-SNE-grey?style=flat)|
-</td>
 <td>
 
 |Title|Tech|
@@ -75,7 +80,21 @@
 |[ISOMAP Decomposition](https://github.com/chris-santiago/decomposition)| ![Numpy](https://img.shields.io/badge/Numpy-grey?style=flat&logo=numpy) ![SciPy](https://img.shields.io/badge/SciPy-grey?style=flat&logo=scipy)|
 |[Low-Rank GMM](https://github.com/chris-santiago/gmm)| ![Numpy](https://img.shields.io/badge/Numpy-grey?style=flat&logo=numpy) ![SciPy](https://img.shields.io/badge/SciPy-grey?style=flat&logo=scipy)|
 |[K-Means/Medoids from Scratch](https://github.com/chris-santiago/kmeans)| ![Numpy](https://img.shields.io/badge/Numpy-grey?style=flat&logo=numpy) ![SciPy](https://img.shields.io/badge/SciPy-grey?style=flat&logo=scipy)|
+|[Decision Tree](https://github.com/chris-santiago/tree)|![Python](https://img.shields.io/badge/Python-grey?style=flat&logo=python)|
 
+</td>
+</tr>
+</table>
+
+<table>
+<tr><th>Finance Stuff</th></tr>
+<tr>
+<td>
+
+|Title|Tech|
+|---|---|
+|[Scraping SEC Filings](https://github.com/chris-santiago/top-holdings)| ![Pandas](https://img.shields.io/badge/Pandas-grey?style=flat&logo=pandas) ![AIOHTTP](https://img.shields.io/badge/AIOHTTP-grey?style=flat&logo=aiohttp) ![BS4](https://img.shields.io/badge/BS4-grey?style=flat)|
+|[Mutual Fund Anomaly Detection](https://github.com/chris-santiago/aafm)| ![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-grey?style=flat&logo=scikitlearn) ![TensorFlow](https://img.shields.io/badge/TensorFlow-grey?style=flat&logo=tensorflow) ![Bokeh](https://img.shields.io/badge/Bokeh-grey?style=flat) ![t-SNE](https://img.shields.io/badge/t-SNE-grey?style=flat)|
 </td>
 </tr>
 </table>
