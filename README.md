@@ -16,8 +16,9 @@
 |Title|Tech|
 |---|---|
 |[VIME: Value Imputation and Mask Estimation](https://github.com/chris-santiago/vime)|![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat&logo=pytorch) ![WandB](https://img.shields.io/badge/WandB-grey?style=flat&logo=weightsandbiases) ![Hydra](https://img.shields.io/badge/Hydra-grey?style=flat)|
-|[Emonet: Emotion Recognition with CNN-LSTM Network](https://github.com/chris-santiago/emonet)| ![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat&logo=pytorch) ![WandB](https://img.shields.io/badge/WandB-grey?style=flat&logo=weightsandbiases) ![transformers](https://img.shields.io/badge/transformers-grey?style=flat) ![SpeechBrain](https://img.shields.io/badge/SpeechBrain-grey?style=flat)|
+|[Emonet: Emotion Recognition with CNN-LSTM](https://github.com/chris-santiago/emonet)| ![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat&logo=pytorch) ![WandB](https://img.shields.io/badge/WandB-grey?style=flat&logo=weightsandbiases) ![transformers](https://img.shields.io/badge/transformers-grey?style=flat) ![SpeechBrain](https://img.shields.io/badge/SpeechBrain-grey?style=flat)|
 |[Inside Deep Learning](https://github.com/chris-santiago/dlwpt)|![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat&logo=pytorch) ![AIM](https://img.shields.io/badge/AIM-grey?style=flat)|
+|[Deep Learning from Scratch](https://github.com/chris-santiago/dlfs)|![Numpy](https://img.shields.io/badge/Numpy-grey?style=flat&logo=numpy)|
 
 </td>
 <td>
@@ -53,6 +54,29 @@
 </td>
 </tr>
 </table>
+
+<table>
+<tr><th>Finance Stuff</th><th>GIT stuff</th></tr>
+<tr>
+<td>
+
+|Title|Tech|
+|---|---|
+|[Scraping SEC Filings](https://github.com/chris-santiago/top-holdings)| ![Pandas](https://img.shields.io/badge/Pandas-grey?style=flat&logo=pandas) ![AIOHTTP](https://img.shields.io/badge/AIOHTTP-grey?style=flat&logo=aiohttp) ![BS4](https://img.shields.io/badge/BS4-grey?style=flat)|
+|[Mutual Fund Anomaly Detection](https://github.com/chris-santiago/aafm)| ![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-grey?style=flat&logo=scikitlearn) ![TensorFlow](https://img.shields.io/badge/TensorFlow-grey?style=flat&logo=tensorflow) ![Bokeh](https://img.shields.io/badge/Bokeh-grey?style=flat) ![t-SNE](https://img.shields.io/badge/t-SNE-grey?style=flat)|
+</td>
+<td>
+
+|Title|Tech|
+|---|---|
+|[ISOMAP Decomposition](https://github.com/chris-santiago/decomposition)| ![Numpy](https://img.shields.io/badge/Numpy-grey?style=flat&logo=numpy) ![SciPy](https://img.shields.io/badge/SciPy-grey?style=flat&logo=scipy)|
+|[Low-Rank GMM](https://github.com/chris-santiago/gmm)| ![Numpy](https://img.shields.io/badge/Numpy-grey?style=flat&logo=numpy) ![SciPy](https://img.shields.io/badge/SciPy-grey?style=flat&logo=scipy)|
+|[K-Means/Medoids from Scratch](https://github.com/chris-santiago/kmeans)| ![Numpy](https://img.shields.io/badge/Numpy-grey?style=flat&logo=numpy) ![SciPy](https://img.shields.io/badge/SciPy-grey?style=flat&logo=scipy)|
+
+</td>
+</tr>
+</table>
+
 
 <!--
 **chris-santiago/chris-santiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
