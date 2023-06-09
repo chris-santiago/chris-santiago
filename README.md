@@ -56,7 +56,7 @@
 </table>
 
 <table>
-<tr><th>Finance Stuff</th><th>GIT stuff</th></tr>
+<tr><th>Finance Stuff</th><th>Misc. Georgia Tech</th></tr>
 <tr>
 <td>
 
@@ -69,6 +69,7 @@
 
 |Title|Tech|
 |---|---|
+|[RandomVariates](https://github.com/chris-santiago/RandomVariates.jl)| ![Julia](https://img.shields.io/badge/Julia-grey?style=flat&logo=julia)|
 |[ISOMAP Decomposition](https://github.com/chris-santiago/decomposition)| ![Numpy](https://img.shields.io/badge/Numpy-grey?style=flat&logo=numpy) ![SciPy](https://img.shields.io/badge/SciPy-grey?style=flat&logo=scipy)|
 |[Low-Rank GMM](https://github.com/chris-santiago/gmm)| ![Numpy](https://img.shields.io/badge/Numpy-grey?style=flat&logo=numpy) ![SciPy](https://img.shields.io/badge/SciPy-grey?style=flat&logo=scipy)|
 |[K-Means/Medoids from Scratch](https://github.com/chris-santiago/kmeans)| ![Numpy](https://img.shields.io/badge/Numpy-grey?style=flat&logo=numpy) ![SciPy](https://img.shields.io/badge/SciPy-grey?style=flat&logo=scipy)|
