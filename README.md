@@ -8,6 +8,8 @@
 
 ### :computer: Projects
 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
+
 <table>
 <tr><th>Deep Learning</th><th>Scikit-Learn Extensions</th></tr>
 <tr>
@@ -113,4 +115,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chris-santiago&show_icons=true&locale=en" alt="chris-santiago" /></p>
+
 -->
