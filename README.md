@@ -6,8 +6,16 @@
   <img src="https://img.shields.io/badge/PyPi-cjsantiago-blue?style=flat&logo=pypi&logoColor=white">
 </a>
 
+
+
 <!--
 **chris-santiago/chris-santiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<br><br>
+:mortar_board: M.S. Analytics, [Georgia Institute of Technology](https://pe.gatech.edu/degrees/analytics)
+<br>
+:mortar_board: M.S. Finance, [Johns Hopkins Carey Business School](https://carey.jhu.edu/programs/master-science-programs/ms-finance)
+<br>
 
 Here are some ideas to get you started:
 
