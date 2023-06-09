@@ -1,4 +1,10 @@
-LinkedIn: https://www.linkedin.com/in/chris-santiago-ds/
+<a href="https://www.linkedin.com/in/chris-santiago-ds/">
+  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin">
+</a>
+
+<a href="https://pypi.org/user/cjsantiago/">
+  <img src="https://img.shields.io/badge/PyPi-cjsantiago-blue?style=flat&logo=pypi&logoColor=white">
+</a>
 
 <!--
 **chris-santiago/chris-santiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
