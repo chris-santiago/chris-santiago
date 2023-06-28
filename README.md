@@ -19,8 +19,8 @@
 |---|---|
 |[VIME: Value Imputation and Mask Estimation](https://github.com/chris-santiago/vime)|![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat&logo=pytorch) ![WandB](https://img.shields.io/badge/WandB-grey?style=flat&logo=weightsandbiases) ![Hydra](https://img.shields.io/badge/Hydra-grey?style=flat)|
 |[Emonet: Emotion Recognition with CNN-LSTM](https://github.com/chris-santiago/emonet)| ![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat&logo=pytorch) ![WandB](https://img.shields.io/badge/WandB-grey?style=flat&logo=weightsandbiases) ![transformers](https://img.shields.io/badge/transformers-grey?style=flat) ![SpeechBrain](https://img.shields.io/badge/SpeechBrain-grey?style=flat)|
-|[Inside Deep Learning](https://github.com/chris-santiago/dlwpt)|![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat&logo=pytorch) ![AIM](https://img.shields.io/badge/AIM-grey?style=flat)|
-|[Deep Learning from Scratch](https://github.com/chris-santiago/dlfs)|![Numpy](https://img.shields.io/badge/Numpy-grey?style=flat&logo=numpy)|
+<!--|[Inside Deep Learning](https://github.com/chris-santiago/dlwpt)|![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat&logo=pytorch) ![AIM](https://img.shields.io/badge/AIM-grey?style=flat)|
+|[Deep Learning from Scratch](https://github.com/chris-santiago/dlfs)|![Numpy](https://img.shields.io/badge/Numpy-grey?style=flat&logo=numpy)| -->
 
 </td>
 </tr>
@@ -34,9 +34,9 @@
 |Title|Tech|
 |---|---|
 |[Deduping](https://github.com/chris-santiago/stringcluster)| ![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-grey?style=flat&logo=scikitlearn) ![Pandas](https://img.shields.io/badge/Pandas-grey?style=flat&logo=pandas)|
-|[NLP with Transformers](https://github.com/chris-santiago/nlpwt)| ![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat&logo=pytorch) ![transformers](https://img.shields.io/badge/transformers-grey?style=flat) ![BERT](https://img.shields.io/badge/BERT-grey?style=flat)|
 |[Topic Modeling](https://github.com/chris-santiago/webtopics)| ![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat&logo=pytorch) ![transformers](https://img.shields.io/badge/transformers-grey?style=flat) ![Gensim](https://img.shields.io/badge/Gensim-grey?style=flat) ![UMAP](https://img.shields.io/badge/UMAP-grey?style=flat) ![BERT](https://img.shields.io/badge/BERT-grey?style=flat)|
 |[Bookmarks Clustering](https://github.com/chris-santiago/bookmarks_clustering)| ![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-grey?style=flat&logo=scikitlearn) ![Gensim](https://img.shields.io/badge/Gensim-grey?style=flat) ![spaCy](https://img.shields.io/badge/spaCy-grey?style=flat&logo=spacy) ![AIOHTTP](https://img.shields.io/badge/AIOHTTP-grey?style=flat&logo=aiohttp) ![NLTK](https://img.shields.io/badge/NLTK-grey?style=flat)|
+<!-- |[NLP with Transformers](https://github.com/chris-santiago/nlpwt)| ![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat&logo=pytorch) ![transformers](https://img.shields.io/badge/transformers-grey?style=flat) ![BERT](https://img.shields.io/badge/BERT-grey?style=flat)| -->
 </td>
 </tr>
 </table>
