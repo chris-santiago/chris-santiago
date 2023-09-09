@@ -17,6 +17,7 @@
 
 |Title|Tech|
 |---|---|
+|[Self-Supervised Representation Learning](https://github.com/chris-santiago/autoencoders)|![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat&logo=pytorch) ![WandB](https://img.shields.io/badge/WandB-grey?style=flat&logo=weightsandbiases) ![Hydra](https://img.shields.io/badge/Hydra-grey?style=flat)|
 |[VIME: Value Imputation and Mask Estimation](https://github.com/chris-santiago/vime)|![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat&logo=pytorch) ![WandB](https://img.shields.io/badge/WandB-grey?style=flat&logo=weightsandbiases) ![Hydra](https://img.shields.io/badge/Hydra-grey?style=flat)|
 |[Emonet: Emotion Recognition with CNN-LSTM](https://github.com/chris-santiago/emonet)| ![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat&logo=pytorch) ![WandB](https://img.shields.io/badge/WandB-grey?style=flat&logo=weightsandbiases) ![transformers](https://img.shields.io/badge/transformers-grey?style=flat) ![SpeechBrain](https://img.shields.io/badge/SpeechBrain-grey?style=flat)|
 <!--|[Inside Deep Learning](https://github.com/chris-santiago/dlwpt)|![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat&logo=pytorch) ![AIM](https://img.shields.io/badge/AIM-grey?style=flat)|
